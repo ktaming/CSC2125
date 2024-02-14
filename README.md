@@ -2,3 +2,6 @@
 
 Lucas Jin
 
+Testable using:
+
+npx hardhat test
